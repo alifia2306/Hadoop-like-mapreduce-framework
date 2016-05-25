@@ -1,0 +1,1 @@
+Implemented a MapReduce framework having master and worker servlets. The master directs jobs and coordinates workers through status messages from workers. Workers complete the job in map, shuffle and reduce phases. Also implemented a GUI to take job and input file locations and display status of every worker.
